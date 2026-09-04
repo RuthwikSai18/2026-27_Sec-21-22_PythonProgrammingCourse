@@ -8,4 +8,4 @@ This is repository contains python programming.
 - Course: Python Programming
 - Section: Sec-21
 - Serial Number: 22
-- Student Name: Medisetty.Ruthwwik sai
+- Student Name: Medisetty.Ruthwik sai
