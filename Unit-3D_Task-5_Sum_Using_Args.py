@@ -1,3 +1,4 @@
+# function using `*args` to find the sum of any number of values
 def find_sum(*args):
     total = 0
     for num in args:
