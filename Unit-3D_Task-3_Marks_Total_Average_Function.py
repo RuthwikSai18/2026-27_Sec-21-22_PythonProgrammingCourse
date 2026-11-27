@@ -1,3 +1,4 @@
+#taking marks of three subjects as parameters and returns the total and average
 def calculate_marks(mark1, mark2, mark3):
     total = mark1 + mark2 + mark3
     average = total / 3
