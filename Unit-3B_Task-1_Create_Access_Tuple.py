@@ -1,3 +1,4 @@
+#to create and access elements of a tuple
 numbers = (10, 20, 30, 40, 50)
 print("Tuple:", numbers)
 print("First element:", numbers[0])
