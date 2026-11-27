@@ -1,3 +1,4 @@
+#to perform matrix operations using nested lists
 A = [[1, 2],
      [3, 4]]
 
