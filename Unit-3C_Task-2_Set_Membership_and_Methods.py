@@ -1,3 +1,4 @@
+# to demonstrate set membership testing and methods (add, remove, discard)
 s = {10, 20, 30}
 # Membership testing
 if 20 in s:
