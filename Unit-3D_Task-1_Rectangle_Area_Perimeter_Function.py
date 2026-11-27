@@ -1,3 +1,4 @@
+#to calculate the area and perimeter of a rectangle (length and breadth as parameters) and returns both values
 def rectangle(length, breadth):
     area = length * breadth
     perimeter = 2 * (length + breadth)
